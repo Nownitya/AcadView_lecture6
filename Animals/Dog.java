@@ -3,7 +3,7 @@ package Animals;
 public class Dog extends Animals
 {
     @Override
-    void speak()
+    public void speak()
     {
         System.out.println("Dog bark --- Woof");
 
