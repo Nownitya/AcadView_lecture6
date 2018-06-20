@@ -8,9 +8,4 @@ public class Cat extends Animals
         System.out.println("cat --- meow");
 
     }
-    public static void main(String[] args)
-    {
-        System.out.println("Sound of Cat");
-    
-    }
 }
