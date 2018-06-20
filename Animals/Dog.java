@@ -8,9 +8,4 @@ public class Dog extends Animals
         System.out.println("Dog bark --- Woof");
 
     }
-    public static void main(String[] args)
-    {
-        System.out.println("Sound of Dog");
-    
-    }
 }
